@@ -1,4 +1,5 @@
 # My First Project
+![](https://orig00.deviantart.net/6cc8/f/2015/355/1/b/kirby_png_2_by_xxsonicfan123-d9kwb75.png)
 13th Mar.
 ------
 Last year, I was a newbie in the SQL, R. I am slowly self-learning.Due to the pressure of promotion, I need some SCI articles. <br>
