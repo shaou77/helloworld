@@ -1,5 +1,9 @@
 # My First Project
 
+23rd Jun.
+-------
+I found I made a fatal mistake in the project 1, Maybe it is the reason why I had a negtive result.
+
 13th Mar.
 ------
 <br>
